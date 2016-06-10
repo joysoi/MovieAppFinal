@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="title_activity_review">Reviews</string>
+    <string name="title_activty_favorite">Favorite</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_discover">Discover</string>
+    <string name="action_favorite">Favorites</string>
+    <string name="action_share">Share</string>
+    <string name="power_tmdb">Powered by TMDB</string>
+    <string name="popular">Popular</string>
+    <string name="rating">Rating</string>
+    <string name="poster">Poster</string>
+    <string name="plot">Plot</string>
+    <string name="trailer">Trailer</string>
+    <string name="user_review">User review</string>
+    <string name="details_reviews_show_more_label">Show more reviews</string>
+    <string name="sharing_no_video">No trailer to show</string>
+    <string name="rating_value" translatable="false">%1$s/10</string>
+    <string name="key_id" translatable="false">id</string>
+    <string name="key_title" translatable="false">title</string>
+    <string name="key_backdrop" translatable="false">backdrop</string>
+    <string name="key_poster" translatable="false">poster</string>
+    <string name="key_rating" translatable="false">rating</string>
+    <string name="key_release_date" translatable="false">release</string>
+    <string name="key_plot" translatable="false">plot</string>
+    <string name="key_trailer" translatable="false">trailer</string>
+    <string name="key_review" translatable="false">review</string>
+
+    <string name="authority" translatable="false">com.example.nikola.finalmovieapp</string>
+</resources>
